@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SecureTask API — DevSecOps P5
 
 SecureTask API adalah aplikasi REST sederhana berbasis Flask untuk membuat, melihat, dan menghapus daftar tugas. Data disimpan di memori proses untuk kebutuhan praktikum; aplikasi ini bukan layanan produksi.
@@ -54,4 +53,3 @@ Workflow `.github/workflows/devsecops.yml` berjalan pada `push` ke `main` dan `p
 =======
 # DevSecOps_0110223024_Rano-Alamsyah
 Implementasi pipeline DevSecOps menggunakan GitHub Actions, SAST, dan Quality Gate.
->>>>>>> 149b7c16c479c1a3a074e833f903bc35a6cf4995
